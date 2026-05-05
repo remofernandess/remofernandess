@@ -2,9 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 MCA Student | Data Analyst | 2+ Years Experience in Data Analytics
-📊 **Data Analyst | Business Analyst | MIS Executive | Operation Analyst | Data Engineer**
-💡 Passionate about transforming data into meaningful insights
+🎓 MCA Student | Data Analyst | 2+ Years Experience in Data Analytics.
+
+📊 **Data Analyst | Business Analyst | MIS Executive | Operation Analyst | Data Engineer**.
+
+💡 Passionate about transforming data into meaningful insights.
 
 * 🌱 Currently learning: **Advanced SQL, Python, Power BI, Excel, Cloud Technologies**
 * 👀 Interested in: **Data Analytics, Machine Learning, Business Intelligence**
